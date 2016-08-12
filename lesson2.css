@@ -1,0 +1,62 @@
+body{
+	padding: 150px;
+}
+#main1{
+	width: 100%;
+}
+.adver{
+	width: 246px;
+	height: 192px;
+}
+.imdb{
+	width: 474px;
+	height: 150px;
+}
+.bii{
+	height: 30px;
+	width: 150px;
+}
+#five div{
+height: 30px;
+width: calc(20% - 12px);
+}
+#search{
+	height: 50px;
+}
+.news{
+	height:390px;
+}
+#news{
+
+	width: 515px;
+	height: 582px;
+}
+.advert{
+	height: 192px;
+}
+.bordermargin{
+
+	border:1px solid black;
+	margin:5px;
+}
+.right{
+	width:248px; 
+	height:192px;
+}
+.movies{
+
+	width: 246px;
+	height: 192px;	
+}
+.colorWhite{
+	background-color: white;
+}
+.colorGray{
+	background-color: gray;
+}
+.floatleft{
+	float: left;
+}
+.clearfix{
+	clear: both;
+}
