@@ -27,7 +27,6 @@ width: calc(20% - 12px);
 	height:390px;
 }
 #news{
-
 	width: 515px;
 	height: 582px;
 }
@@ -35,7 +34,6 @@ width: calc(20% - 12px);
 	height: 192px;
 }
 .bordermargin{
-
 	border:1px solid black;
 	margin:5px;
 }
@@ -44,7 +42,6 @@ width: calc(20% - 12px);
 	height:192px;
 }
 .movies{
-
 	width: 246px;
 	height: 192px;	
 }
@@ -59,4 +56,8 @@ width: calc(20% - 12px);
 }
 .clearfix{
 	clear: both;
+}
+.advertisement{
+	width: 261px;
+	height: 192px;
 }
